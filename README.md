@@ -1,2 +1,2 @@
 # calctesting
-simple calculator written in java
+java calculator. very simple!
